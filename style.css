@@ -151,6 +151,9 @@ ul a {
   transition: 0.9s;
   border-radius: var(--br-1);
 }
+.overflow-x-hidden{
+  overflow-x: hidden;
+}
 
 /* ABOUT SECTION */
 section.about {
